@@ -4,3 +4,10 @@ Iniciando tutorial de Python:
 uma alta legibilidade de código através de uma sintaxe simples, porém, poderosa e que permite que
 programadores desenvolvam suas soluções utilizando poucas linhas de código. A linguagem Python foi
 desenvolvida por Guido Van Rossum no final dos anos 80.
+
+Explicando o que é Python:
+
+-Python é uma linguagem de programação de alto nível e de uso geral. 
+Sua filosofia de design enfatiza a legibilidade do código com o uso de recuo significativo. 
+Python é digitado dinamicamente e coletado como lixo. Ele suporta vários paradigmas de programação,
+incluindo programação estruturada, orientada a objetos e funcional.
