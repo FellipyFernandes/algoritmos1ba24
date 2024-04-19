@@ -1,0 +1,6 @@
+Iniciando tutorial de Python:
+
+-O Python é uma linguagem de programação de alto nível e que tem como principal princípio permitir
+uma alta legibilidade de código através de uma sintaxe simples, porém, poderosa e que permite que
+programadores desenvolvam suas soluções utilizando poucas linhas de código. A linguagem Python foi
+desenvolvida por Guido Van Rossum no final dos anos 80.
