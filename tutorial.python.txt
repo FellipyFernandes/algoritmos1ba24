@@ -11,3 +11,12 @@ Explicando o que é Python:
 Sua filosofia de design enfatiza a legibilidade do código com o uso de recuo significativo. 
 Python é digitado dinamicamente e coletado como lixo. Ele suporta vários paradigmas de programação,
 incluindo programação estruturada, orientada a objetos e funcional.
+
+Passo a passo fazer o download:
+
+-Passo 1: Acesse o site oficial do Python
+-Passo 2: Faça o download do instalador
+-Passo 3: Execute o instalador
+-Passo 4: Configurar as opções de instalação
+-Passo 5: Concluir a instalação
+-Passo 6: Verificar a instalação
