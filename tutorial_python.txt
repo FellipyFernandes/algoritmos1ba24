@@ -25,3 +25,6 @@ Passo a passo de instalação:
 2 - Clique em "Install Now"
 3 - Se tudo ocorrer bem, a próxima tela será mostrada. Clique em "Close".
 4 - Para verificar se a instalação do Python foi bem-sucedida, pesquise no menu iniciar por "cmd" e clique duas vezes para abri-lo.
+
+Como configurar o virtualenv:
+
